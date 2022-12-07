@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEe7ksYvp0QV99sukXFKSRcangrGebshvE4WAoYNmD4IBSppmBJTyqOv0iqaYcr+uyLBS7bUKwl/1+ShtTpCBg==",
+  "success": true,
+  "projectFilePath": "E:\\Codelabs\\vbcodelab\\latihanCustomListFlyoutPanel\\latihanCustomListFlyoutPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
